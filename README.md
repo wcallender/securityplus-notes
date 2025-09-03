@@ -1,32 +1,16 @@
-# securityplus-notes
-Study notes and labs for CompTIA Security+ (SY0-701) certification
+# Security+ Study Notes (SY0-701)
+
 This repository contains my personal notes, summaries, and practice labs while preparing for the CompTIA Security+ exam.
 
-## 🔐 Topics Covered
-- Threats, Attacks & Vulnerabilities
-- Architecture & Design
-- Implementation
-- Operations & Incident Response
-- Governance, Risk & Compliance
+## 🔐 Domains Covered
+- [Domain 1: Threats, Attacks & Vulnerabilities](Domain1_Threats_Attacks/notes.md)
+- [Domain 2: Architecture & Design](Domain2_Architecture_Design/notes.md)
+- [Domain 3: Implementation](Domain3_Implementation/notes.md)
+- [Domain 4: Operations & Incident Response](Domain4_Operations_Response/notes.md)
+- [Domain 5: Governance, Risk & Compliance](Domain5_Governance_Risk/notes.md)
 
-## 🧪 Labs & Tools
-- Nmap & Nessus basics
-- OpenVAS scan walkthrough
-- Packet Tracer network configs
-- Wireshark filter examples
-- Sample PowerShell audit scripts
+## 📁 Cheat Sheets
+- [Common Ports](cheat_sheets/ports.md)
+- [Acronyms](cheat_sheets/acronyms.md)
 
-## 📚 Study Resources
-- Professor Messer videos
-- Jason Dion practice tests
-- Exam objectives PDF (v7.0)
-
-## 📅 Progress
-- [x] Week 1: Domain 1 Notes
-- [ ] Week 2: Domain 2 Notes
-- [ ] Week 3: Practice Scans
-- [ ] Week 4: Mock Exam Review
-
----
-
-✏️ *Created by Wade Callender | Dallas, TX*
+✏️ Created by Wade Callender | Dallas, TX

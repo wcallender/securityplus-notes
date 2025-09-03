@@ -1,0 +1,3 @@
+# Domain2 Architecture Design Notes
+
+To be added...
